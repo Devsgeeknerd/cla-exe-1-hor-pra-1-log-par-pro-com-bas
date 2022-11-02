@@ -40,6 +40,14 @@
   gcc --version
   ```
 
+  * Se for apresentada alguma versão, pular este passo.
+  * Instale o compilador.
+  * Verifique se o comando de checagem de versão e reconhecido no terminal:
+
+  ```powershell
+  gcc --version
+  ```
+
 <!-- Table of Contents -->
 <!-- ## Tabela de Conteúdos -->
 
