@@ -23,6 +23,16 @@
   * Apos a instalação, vamos criar uma variável de ambiente chamada **JAVA_HOME** apontando para o diretório de instalação do **Java**.
   * Fechar qualquer tela ou terminal aberto, reabra o terminal e teste novamente o comando para checar a versão:
 
+  ```powershell
+  java --version
+  ```
+
+  ou
+
+  ```powershell
+  java -version
+  ```
+
 <!-- Table of Contents -->
 <!-- ## Tabela de Conteúdos -->
 
