@@ -33,6 +33,9 @@
   java -version
   ```
 
+* Instalar e configurar o compilador **C/C++**:
+  * Abri o terminal e executar o comando abaixo para checar se ja existe alguma versão do compilador **C/C++** instalada:
+
 <!-- Table of Contents -->
 <!-- ## Tabela de Conteúdos -->
 
