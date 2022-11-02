@@ -7,15 +7,15 @@
 * Instalar e configurar o ***Java***:
   * Abri o terminal e executar o comando abaixo:
 
-  ```powershell
-  java --version
-  ```
+    ```powershell
+    java --version
+    ```
 
-  ou
+    ou
 
-  ```powershell
-  java -version
-  ```
+    ```powershell
+    java -version
+    ```
 
   * Se for apresentado alguma versão, verificar se e uma **versão 11** ou **maior**.
   * Se for igual ou maior que 11, tudo certo e não precisa instalar e nem configurar o **Java**.
@@ -23,30 +23,30 @@
   * Apos a instalação, vamos criar uma variável de ambiente chamada **JAVA_HOME** apontando para o diretório de instalação do **Java**.
   * Fechar qualquer tela ou terminal aberto, reabra o terminal e teste novamente o comando para checar a versão:
 
-  ```powershell
-  java --version
-  ```
+    ```powershell
+    java --version
+    ```
 
-  ou
+    ou
 
-  ```powershell
-  java -version
-  ```
+    ```powershell
+    java -version
+    ```
 
 * Instalar e configurar o compilador **C/C++**:
   * Abri o terminal e executar o comando abaixo para checar se ja existe alguma versão do compilador **C/C++** instalada:
 
-  ```powershell
-  gcc --version
-  ```
+    ```powershell
+    gcc --version
+    ```
 
   * Se for apresentada alguma versão, pular este passo.
   * Instale o compilador.
   * Verifique se o comando de checagem de versão e reconhecido no terminal:
 
-  ```powershell
-  gcc --version
-  ```
+    ```powershell
+    gcc --version
+    ```
 
 <!-- Table of Contents -->
 <!-- ## Tabela de Conteúdos -->
