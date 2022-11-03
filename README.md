@@ -5,7 +5,7 @@
 
 * Baixar os ***software*** que estão disponíveis juntos aos materiais para **download** da aula e configurar os itens abaixo:
   * Instalar e configurar o ***Java***:
-    * Abri o terminal e executar o comando abaixo:
+    * Abrir o terminal e executar o comando abaixo:
 
       ```powershell
       java --version
@@ -34,7 +34,7 @@
         ```
 
   * Instalar e configurar o compilador **C/C++**:
-    * Abri o terminal e executar o comando abaixo para checar se ja existe alguma versão do compilador **C/C++** instalada:
+    * Abrir o terminal e executar o comando abaixo para checar se ja existe alguma versão do compilador **C/C++** instalada:
 
       ```powershell
       gcc --version
@@ -58,6 +58,10 @@
 
   * Instalar e configurar o ***Python***:
     * Abrir o terminal e executar o comando para checar se ja existe alguma versão do **Python** instalada:
+
+      ```powershell
+      python --version
+      ```
 
 <!-- Table of Contents -->
 <!-- ## Tabela de Conteúdos -->
