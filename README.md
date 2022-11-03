@@ -56,6 +56,9 @@
         gcc --version
         ```
 
+  * Instalar e configurar o ***Python***:
+    * Abrir o terminal e executar o comando para checar se ja existe alguma versão do **Python** instalada:
+
 <!-- Table of Contents -->
 <!-- ## Tabela de Conteúdos -->
 
