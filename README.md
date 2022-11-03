@@ -17,21 +17,21 @@
       java -version
       ```
 
-    * Se for apresentado alguma versão, verificar se e uma **versão 11** ou **maior**.
-    * Se for igual ou maior que 11, tudo certo e não precisa instalar e nem configurar o **Java**.
-    * Se for uma versão menor, primeiro desinstalar a versão antiga, reiniciar o computador e então instalar e configurar a nova versão.
-    * Apos a instalação, vamos criar uma variável de ambiente chamada **JAVA_HOME** apontando para o diretório de instalação do **Java**.
-    * Fechar qualquer tela ou terminal aberto, reabra o terminal e teste novamente o comando para checar a versão:
+      * Se for apresentado alguma versão, verificar se e uma **versão 11** ou **maior**.
+      * Se for igual ou maior que 11, tudo certo e não precisa instalar e nem configurar o **Java**.
+      * Se for uma versão menor, primeiro desinstalar a versão antiga, reiniciar o computador e então instalar e configurar a nova versão.
+      * Apos a instalação, vamos criar uma variável de ambiente chamada **JAVA_HOME** apontando para o diretório de instalação do **Java**.
+      * Fechar qualquer tela ou terminal aberto, reabra o terminal e teste novamente o comando para checar a versão:
 
-      ```powershell
-      java --version
-      ```
+        ```powershell
+        java --version
+        ```
 
-      ou
+        ou
 
-      ```powershell
-      java -version
-      ```
+        ```powershell
+        java -version
+        ```
 
   * Instalar e configurar o compilador **C/C++**:
     * Abri o terminal e executar o comando abaixo para checar se ja existe alguma versão do compilador **C/C++** instalada:
@@ -40,21 +40,21 @@
       gcc --version
       ```
 
-    * Se for apresentada alguma versão, pular este passo.
-    * Instale o compilador.
-    * Verifique se o comando de checagem de versão e reconhecido no terminal:
-
-      ```powershell
-      gcc --version
-      ```
-
-    * Se for reconhecido pode ir para o próximo passo, caso contrário continuar abaixo:
-      * Adicionar os binários do compilador no **path** do sistema.
-      * Feche qualquer tela ou terminal aberto, reabra o terminal e teste novamente o comando para checar a versão:
+      * Se for apresentada alguma versão, pular este passo.
+      * Instale o compilador.
+      * Verifique se o comando de checagem de versão e reconhecido no terminal:
 
         ```powershell
         gcc --version
         ```
+
+        * Se for reconhecido pode ir para o próximo passo, caso contrário continuar abaixo:
+        * Adicionar os binários do compilador no **path** do sistema.
+        * Feche qualquer tela ou terminal aberto, reabra o terminal e teste novamente o comando para checar a versão:
+
+          ```powershell
+          gcc --version
+          ```
 
   * Instalar e configurar o ***Python***:
     * Abrir o terminal e executar o comando para checar se ja existe alguma versão do **Python** instalada:
