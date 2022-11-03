@@ -48,6 +48,10 @@
     gcc --version
     ```
 
+  * Se for reconhecido pode ir para o próximo passo, caso contrário continuar abaixo:
+    * Adicionar os binários do compilador no **path** do sistema.
+    * Feche qualquer tela ou terminal aberto, reabra o terminal e teste novamente o comando para checar a versão:
+
 <!-- Table of Contents -->
 <!-- ## Tabela de Conteúdos -->
 
