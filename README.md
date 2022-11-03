@@ -67,6 +67,10 @@
         * Adicionar os binários do **Python** no **path** do sistema.
         * Fechar qualquer tela ou terminal aberto, reabra o terminal e teste novamente o comando para checar a versão:
 
+          ```powershell
+          python --version
+          ```
+
 <!-- Table of Contents -->
 <!-- ## Tabela de Conteúdos -->
 
