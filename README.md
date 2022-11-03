@@ -71,6 +71,10 @@
           python --version
           ```
 
+  * Instalar e configurar o ***Eclipse***:
+    * Descompactar o **Eclipse**.
+    * Criar um diretório chamado **apps** no seu diretório **home** e cole o **Eclipse** ali dentro.
+
 <!-- Table of Contents -->
 <!-- ## Tabela de Conteúdos -->
 
