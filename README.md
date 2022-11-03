@@ -50,7 +50,7 @@
 
         * Se for reconhecido pode ir para o próximo passo, caso contrário continuar abaixo:
         * Adicionar os binários do compilador no **path** do sistema.
-        * Feche qualquer tela ou terminal aberto, reabra o terminal e teste novamente o comando para checar a versão:
+        * Fechar qualquer tela ou terminal aberto, reabra o terminal e teste novamente o comando para checar a versão:
 
           ```powershell
           gcc --version
@@ -62,6 +62,10 @@
       ```powershell
       python --version
       ```
+
+      * Se for reconhecido podemos ir para o próximo passo, caso contrário continuar abaixo:
+        * Adicionar os binários do **Python** no **path** do sistema.
+        * Fechar qualquer tela ou terminal aberto, reabra o terminal e teste novamente o comando para checar a versão:
 
 <!-- Table of Contents -->
 <!-- ## Tabela de Conteúdos -->
