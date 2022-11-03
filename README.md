@@ -74,6 +74,23 @@
   * Instalar e configurar o ***Eclipse***:
     * Descompactar o **Eclipse**.
     * Criar um diretório chamado **apps** no seu diretório **home** e cole o **Eclipse** ali dentro.
+    * Instalar o **plugin** `CDT` no **Eclipse** necessário para interagir com o compilador **C/C++**.
+    * Com o **Eclipse** aberto, acessar o menu **help**:
+      * **Install New Software**.
+    * Clique no botão **ADD**:
+      * Na caixa **Name** digite:
+        * **CDT**.
+      * Na caixa **Location** digite:
+        * <https://download.eclipse.org/tools/cdt/releases/9.4>
+      * Clique em **Add**.
+    * Após carregar os dados na lista, selecionar **"main"** e finalizar a instalação.
+    * Reiniciar o **Eclipse** após isso.
+    * Com o **Eclipse** aberto novamente, acessar o menu **Window**:
+      * **Preferences**:
+        * **C/C++**:
+          * **New C/C++ Project Wizard**.
+        * E marcar **Empty Project** com o **GCC Toolchain Preferencial**.
+        * Clique em **Apply** e **Close**.
 
 <!-- Table of Contents -->
 <!-- ## Tabela de Conteúdos -->
