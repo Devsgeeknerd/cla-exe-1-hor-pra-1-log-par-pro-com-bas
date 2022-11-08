@@ -94,7 +94,7 @@
           * E marcar **Empty Project** com o **GCC Toolchain Preferencial**.
           * Clique em **Apply** e **Close**.
           * Criamos um projeto em **C** para testarmos o ambiente.
-
+    * Instalar o plugin `PyDev` no **Eclipse**:
 <!-- Table of Contents -->
 <!-- ## Tabela de Conteúdos -->
 
