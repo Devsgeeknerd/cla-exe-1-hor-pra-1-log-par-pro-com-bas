@@ -95,6 +95,18 @@
           * Clique em **Apply** e **Close**.
           * Criamos um projeto em **C** para testarmos o ambiente.
     * Instalar o plugin `PyDev` no **Eclipse**:
+      * Com o **Eclipse** aberto, acessar o menu `help`:
+        * **Install New Software**.
+      * Clique no botão `ADD`:
+        * Na caixa **Name** digite:
+          * **PyDev**.
+        * Na caixa **Location** digite:
+          * <https://www.pydev.org/updates>
+        * Clique em **Add**.
+      * Após carregar os dados na lista, selecione `main` e finalizar a instalação.
+      * Reiniciar o **Eclipse** após isso.
+      * Criamos um projeto em **Python** para testarmos o ambiente.
+
 <!-- Table of Contents -->
 <!-- ## Tabela de Conteúdos -->
 
