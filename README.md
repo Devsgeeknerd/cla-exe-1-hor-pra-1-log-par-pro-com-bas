@@ -20,7 +20,7 @@
       * Se for apresentado alguma versão, verificar se e uma **versão 11** ou **maior**.
       * Se for igual ou maior que 11, tudo certo e não precisa instalar e nem configurar o **Java**.
       * Se for uma versão menor, primeiro desinstalar a versão antiga, reiniciar o computador e então instalar e configurar a nova versão.
-      * Apos a instalação, vamos criar uma variável de ambiente chamada **JAVA_HOME** apontando para o diretório de instalação do **Java**.
+      * Apos a instalação, vamos criar uma variável de ambiente chamada `JAVA_HOME` apontando para o diretório de instalação do **Java**.
       * Fechar qualquer tela ou terminal aberto, reabra o terminal e teste novamente o comando para checar a versão:
 
         ```powershell
@@ -51,7 +51,7 @@
         ```
 
         * Se for reconhecido pode ir para o próximo passo, caso contrário continuar abaixo:
-        * Adicionar os binários do compilador no **path** do sistema.
+        * Adicionar os binários do compilador no `path` do sistema.
         * Fechar qualquer tela ou terminal aberto, reabra o terminal e teste novamente o comando para checar a versão:
 
           ```powershell
@@ -59,14 +59,14 @@
           ```
 
   * Instalar e configurar o ***Python***:
-    * Abrir o terminal e executar o comando para checar se ja existe alguma versão do **Python** instalada:
+    * Abrir o terminal e executar o comando para checar se ja existe alguma versão do `Python` instalada:
 
       ```powershell
       python --version
       ```
 
       * Se for reconhecido podemos ir para o próximo passo, caso contrário continuar abaixo:
-        * Adicionar os binários do **Python** no **path** do sistema.
+        * Adicionar os binários do **Python** no `path` do sistema.
         * Fechar qualquer tela ou terminal aberto, reabra o terminal e teste novamente o comando para checar a versão:
 
           ```powershell
@@ -75,19 +75,19 @@
 
   * Instalar e configurar o ***Eclipse***:
     * Descompactar o **Eclipse**.
-    * Criar um diretório chamado **apps** no seu diretório **home** e cole o **Eclipse** ali dentro.
+    * Criar um diretório chamado `apps` no seu diretório **home** e cole o **Eclipse** ali dentro.
     * Instalar o **plugin** `CDT` no **Eclipse** necessário para interagir com o compilador **C/C++**.
-      * Com o **Eclipse** aberto, acessar o menu **help**:
+      * Com o **Eclipse** aberto, acessar o menu `help`:
         * **Install New Software**.
-      * Clique no botão **ADD**:
+      * Clique no botão `ADD`:
         * Na caixa **Name** digite:
           * **CDT**.
         * Na caixa **Location** digite:
           * <https://download.eclipse.org/tools/cdt/releases/9.4>
-        * Clique em **Add**.
-      * Após carregar os dados na lista, selecionar **"main"** e finalizar a instalação.
+        * Clique em `Add`.
+      * Após carregar os dados na lista, selecionar `main` e finalizar a instalação.
       * Reiniciar o **Eclipse** após isso.
-      * Com o **Eclipse** aberto novamente, acessar o menu **Window**:
+      * Com o **Eclipse** aberto novamente, acessar o menu `Window`:
         * **Preferences**:
           * **C/C++**:
             * **New C/C++ Project Wizard**.
